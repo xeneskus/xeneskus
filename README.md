@@ -19,6 +19,14 @@
 
 ## 🧰 Tech Stack (Grouped)
 
+### 🧠 Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-173647?style=for-the-badge&logo=swagger&logoColor=white)
+
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,14 +38,10 @@
 
 ### 🔎 SEO & Growth
 ![Search Engine Optimization](https://img.shields.io/badge/Search%20Engine%20Optimization-SEO-0A66C2?style=for-the-badge)
-
-### 🧠 Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-173647?style=for-the-badge&logo=swagger&logoColor=white)
+![Search Engine Marketing](https://img.shields.io/badge/Search%20Engine%20Marketing-SEM-34A853?style=for-the-badge&logo=googleads&logoColor=white)
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-Marketing-6f42c1?style=for-the-badge)
+![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-GSC-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ### 🧪 Testing
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -78,3 +82,5 @@
 </div>
 
 ---
+
+
